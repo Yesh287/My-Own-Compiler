@@ -1,0 +1,7 @@
+build/
+out
+out.o
+out.asm
+*.o
+*.swp
+
